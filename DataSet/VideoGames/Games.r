@@ -1,5 +1,5 @@
 library(readr)
-datos<- read_csv("Locales/U/Sistemas/9Ciclo_Octubre_Marzo_2020_2021/IA/DataSet/VideoGames/Video_Games_Sales_as_at_22_Dec_2016.csv")
+datos<- read_csv("Locales/U/Sistemas/9Ciclo_Octubre_Marzo_2020_2021/IA/DataSet/VideoGames/Games.csv")
 View(datos)
 
 #LANZAMIENTO
