@@ -9,7 +9,7 @@ library(ggthemes)
 library(ggplot2)
 library(reshape2)
 
-df  <- read.csv("C:/Users/USUARIO/Desktop/GamesData.csv", header=TRUE)
+df  <- read.csv("D:\Documentos\Locales\U\Sistemas\9Ciclo_Octubre_Marzo_2020_2021\IA\Artificial_Intelligence\DataSet\VideoGames\GamesData.csv", header=TRUE)
 head(df)
 summary(df)
 
